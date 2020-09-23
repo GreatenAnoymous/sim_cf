@@ -1,0 +1,4 @@
+/home/gt/crazyflie/crazyflie_ros/src/sim_cf/crazyflie-firmware/sitl_make/build/CMakeFiles/rebuild_cache.dir
+/home/gt/crazyflie/crazyflie_ros/src/sim_cf/crazyflie-firmware/sitl_make/build/CMakeFiles/edit_cache.dir
+/home/gt/crazyflie/crazyflie_ros/src/sim_cf/crazyflie-firmware/sitl_make/build/CMakeFiles/version_cf.dir
+/home/gt/crazyflie/crazyflie_ros/src/sim_cf/crazyflie-firmware/sitl_make/build/CMakeFiles/cf2.dir
